@@ -3,7 +3,7 @@
 # PLAN: A Privacy-Preserving Walk in the Latent Space of Generative Models for Medical Applications
   Matteo Pennisi, Federica Proietto Salanitri, Giovanni Bellitto, Simone Palazzo, Ulas Bagci, Concetto Spampinato
  
-[![Paper](http://img.shields.io/badge/paper-arxiv.2307.02984-B31B1B.svg)]()
+[![Paper](https://img.shields.io/badge/arXiv-2307.02984-b31b1b.svg)](https://arxiv.org/abs/2307.02984)
 [![Conference](http://img.shields.io/badge/MICCAI-2023-4b44ce.svg)]()
 </div>
 
