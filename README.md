@@ -40,5 +40,12 @@ Linear vs PLAN navigation between two arbitrary points. For each step of the lat
 # Citation
 
 ```bibtex
-
+  @misc{pennisi2023privacypreserving,
+      title={A Privacy-Preserving Walk in the Latent Space of Generative Models for Medical Applications}, 
+      author={Matteo Pennisi and Federica Proietto Salanitri and Giovanni Bellitto and Simone Palazzo and Ulas Bagci and Concetto Spampinato},
+      year={2023},
+      eprint={2307.02984},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
 ```
