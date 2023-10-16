@@ -4,7 +4,7 @@
   Matteo Pennisi, Federica Proietto Salanitri, Giovanni Bellitto, Simone Palazzo, Ulas Bagci, Concetto Spampinato
  
 [![Paper](https://img.shields.io/badge/arXiv-2307.02984-b31b1b.svg)](https://arxiv.org/abs/2307.02984)
-[![Conference](http://img.shields.io/badge/MICCAI-2023-4b44ce.svg)]()
+[![Conference](http://img.shields.io/badge/MICCAI-2023-4b44ce.svg)](https://link.springer.com/chapter/10.1007/978-3-031-43898-1_41)
 </div>
 
 # Overview
@@ -40,12 +40,12 @@ Linear vs PLAN navigation between two arbitrary points. For each step of the lat
 # Citation
 
 ```bibtex
-  @misc{pennisi2023privacypreserving,
-      title={A Privacy-Preserving Walk in the Latent Space of Generative Models for Medical Applications}, 
-      author={Matteo Pennisi and Federica Proietto Salanitri and Giovanni Bellitto and Simone Palazzo and Ulas Bagci and Concetto Spampinato},
-      year={2023},
-      eprint={2307.02984},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+  @inproceedings{pennisi2023privacy,
+  title={A Privacy-Preserving Walk in the Latent Space of Generative Models for Medical Applications},
+  author={Pennisi, Matteo and Proietto Salanitri, Federica and Bellitto, Giovanni and Palazzo, Simone and Bagci, Ulas and Spampinato, Concetto},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={422--431},
+  year={2023},
+  organization={Springer}
 }
 ```
